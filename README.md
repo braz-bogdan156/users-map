@@ -62,19 +62,19 @@ Custom styles for clusters and markers
 users-map/
 ├── src/
 │   ├── components/
-│   │   ├── UsersMap/           # main map module
-│   │   │   ├── UsersMapView/   # map rendering logic
-│   │   │   │   ├── BoundsListener/   # listens to map bounds
-│   │   │   │   ├── MarkerCluster/    # clustering logic
-│   │   │   │   ├── MarkerPopup/      # user popup card
-│   │   │   │   └── SearchStatsBar/   # search + stats
-│   │   └── SearchBar/          # search input
-│   ├── hooks/                  # custom hooks (useDebounce)
-│   ├── utils/                  # helpers (buildInterestIndex, filterUsers)
-│   ├── types/                  # TypeScript types
-│   ├── App.tsx                 # app entry point
-│   └── main.tsx                # React bootstrap
-├── public/                     # static files
+│   │   ├── UsersMap/          
+│   │   │   ├── UsersMapView/   
+│   │   │   │   ├── BoundsListener/   
+│   │   │   │   ├── MarkerCluster/    
+│   │   │   │   ├── MarkerPopup/      
+│   │   │   │   └── SearchStatsBar/   
+│   │   └── SearchBar/          
+│   ├── hooks/                  
+│   ├── utils/                  
+│   ├── types/                  
+│   ├── App.tsx                 
+│   └── main.tsx                
+├── public/                     
 ├── package.json
 ├── tsconfig.json
 └── vite.config.ts
