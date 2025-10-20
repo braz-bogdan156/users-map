@@ -62,13 +62,6 @@ Custom styles for clusters and markers
 users-map/
 ├── src/
 │   ├── components/
-│   │   ├── UsersMap/          
-│   │   │   ├── UsersMapView/   
-│   │   │   │   ├── BoundsListener/   
-│   │   │   │   ├── MarkerCluster/    
-│   │   │   │   ├── MarkerPopup/      
-│   │   │   │   └── SearchStatsBar/   
-│   │   └── SearchBar/          
 │   ├── hooks/                  
 │   ├── utils/                  
 │   ├── types/                  
