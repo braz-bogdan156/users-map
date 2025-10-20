@@ -53,16 +53,15 @@ Statistics bar showing filtered vs visible users
 Custom styles for clusters and markers
 
 📂 Project Structure
-
 users-map/
 ├── src/
-│ ├── components/
-│ ├── hooks/  
-│ ├── utils/  
-│ ├── types/  
-│ ├── App.tsx  
-│ └── main.tsx  
-├── public/  
+│   ├── components/       
+│   ├── hooks/            
+│   ├── types/       
+│   ├── utils/            
+│   ├── App.tsx           
+│   ├── main.tsx         
+│   └── index.css         
 ├── package.json
 ├── tsconfig.json
 └── vite.config.ts
