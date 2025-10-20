@@ -55,7 +55,6 @@ Custom styles for clusters and markers
 📂 Project Structure
 
 users-map/
-
 ├── src/
 │ ├── components/
 │ ├── hooks/  
