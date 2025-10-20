@@ -17,25 +17,20 @@ An interactive interface for discovering users by geolocation and interests. Bui
 ⚙️ Setup & Run
 Clone the repository:
 
-
 git clone https://github.com/braz-bogdan156/users-map
 cd users-map
 Install dependencies:
 
-
 npm install
 Run the development server:
-
 
 npm run dev
 The app will be available at: 👉 http://localhost:5173
 
 Build for production:
 
-
 npm run build
 Preview the production build:
-
 
 npm run preview
 📌 Features
@@ -61,13 +56,13 @@ Custom styles for clusters and markers
 
 users-map/
 ├── src/
-│   ├── components/
-│   ├── hooks/                  
-│   ├── utils/                  
-│   ├── types/                  
-│   ├── App.tsx                 
-│   └── main.tsx                
-├── public/                     
+│ ├── components/
+│ ├── hooks/  
+│ ├── utils/  
+│ ├── types/  
+│ ├── App.tsx  
+│ └── main.tsx  
+├── public/  
 ├── package.json
 ├── tsconfig.json
 └── vite.config.ts
