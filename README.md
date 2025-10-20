@@ -1,7 +1,9 @@
-📖 Users Map
+# 📖 Users Map
+
 An interactive interface for discovering users by geolocation and interests. Built with React + TypeScript, using Leaflet.js for maps and marker clustering.
 
 🛠 Tech Stack
+
 ⚛️ React 18 + TypeScript – UI and type safety
 
 🗺 Leaflet + React‑Leaflet – map integration
@@ -33,7 +35,9 @@ npm run build
 Preview the production build:
 
 npm run preview
+
 📌 Features
+
 🔹 Core Requirements
 Display 10,000 users on the map as markers
 
