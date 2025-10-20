@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "lat": 50.4501,
+    "lon": 30.5234,
+    "interests": ["music", "react", "hiking"]
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "lat": 40.7128,
+    "lon": -74.0060,
+    "interests": ["photography", "travel", "react"]
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "lat": 35.6895,
+    "lon": 139.6917,
+    "interests": ["hiking", "art", "design"]
+  },
+  {
+    "id": 4,
+    "name": "Diana",
+    "lat": -33.8688,
+    "lon": 151.2093,
+    "interests": ["surfing", "yoga", "travel"]
+  },
+  {
+    "id": 5,
+    "name": "Eugene",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "interests": ["coding", "gaming", "music"]
+  },
+  {
+    "id": 6,
+    "name": "Fiona",
+    "lat": -1.2921,
+    "lon": 36.8219,
+    "interests": ["design", "art", "books"]
+  },
+  {
+    "id": 7,
+    "name": "George",
+    "lat": -23.5505,
+    "lon": -46.6333,
+    "interests": ["football", "travel", "history"]
+  },
+  {
+    "id": 8,
+    "name": "Hanna",
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "interests": ["photography", "nature", "yoga"]
+  },
+  {
+    "id": 9,
+    "name": "Igor",
+    "lat": 19.4326,
+    "lon": -99.1332,
+    "interests": ["cycling", "music", "coding"]
+  },
+  {
+    "id": 10,
+    "name": "Julia",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "interests": ["art", "dance", "travel"]
+  },
+  {
+    "id": 11,
+    "name": "Kenji",
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "interests": ["startups", "tech", "coffee"]
+  },
+  {
+    "id": 12,
+    "name": "Lena",
+    "lat": 52.5200,
+    "lon": 13.4050,
+    "interests": ["books", "history", "music"]
+  },
+  {
+    "id": 13,
+    "name": "Max",
+    "lat": -34.6037,
+    "lon": -58.3816,
+    "interests": ["gaming", "coding", "travel"]
+  },
+  {
+    "id": 14,
+    "name": "Nina",
+    "lat": 28.6139,
+    "lon": 77.2090,
+    "interests": ["yoga", "art", "photography"]
+  },
+  {
+    "id": 15,
+    "name": "Omar",
+    "lat": 30.0444,
+    "lon": 31.2357,
+    "interests": ["history", "music", "travel"]
+  },
+  {
+    "id": 16,
+    "name": "Polina",
+    "lat": 59.9343,
+    "lon": 30.3351,
+    "interests": ["design", "books", "nature"]
+  },
+  {
+    "id": 17,
+    "name": "Quentin",
+    "lat": 45.4215,
+    "lon": -75.6972,
+    "interests": ["coding", "hiking", "gaming"]
+  },
+  {
+    "id": 18,
+    "name": "Sofia",
+    "lat": -26.2041,
+    "lon": 28.0473,
+    "interests": ["art", "music", "dance"]
+  },
+  {
+    "id": 19,
+    "name": "Taras",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "interests": ["history", "photography", "cycling"]
+  },
+  {
+    "id": 20,
+    "name": "Ulyana",
+    "lat": 34.0522,
+    "lon": -118.2437,
+    "interests": ["movies", "yoga", "books"]
+  }
+]

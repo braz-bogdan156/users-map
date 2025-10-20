@@ -1,0 +1,28 @@
+.searchRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  margin-top: 90px;
+}
+
+.input {
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid #d0d7de;
+  outline: none;
+  font-size: 14px;
+  min-width: 220px;
+}
+
+.reset {
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid #e3e7ea;
+  background: #fafafa;
+  cursor: pointer;
+  margin: 0 auto;
+}
+
+
+
