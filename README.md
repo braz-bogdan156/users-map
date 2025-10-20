@@ -53,6 +53,7 @@ Statistics bar showing filtered vs visible users
 Custom styles for clusters and markers
 
 📂 Project Structure
+
 users-map/
 ├── src/
 │   ├── components/       
